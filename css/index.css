@@ -37,6 +37,10 @@ body.dark {
 @font-face {
   font-family: 'Hindi_Font';
   src: url(../fonts/Hindi_Type.ttf);
+  font-family: 'lovely golden ttf';
+  src: url(../fonts/lovely golden ttf.ttf);
+  font-family: 'Roshayati';
+  src: url(../fonts/Roshayati.otf);
 }
 
 /* Default CSS Changes */
