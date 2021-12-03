@@ -443,7 +443,10 @@ input[type='file']::before {
   opacity: 0.8;
   cursor: not-allowed;
 }
-
+.hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
 .category-grid {
   display: grid;
   grid-gap: 10px;
